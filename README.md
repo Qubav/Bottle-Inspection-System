@@ -1,0 +1,1 @@
+Bottle Inspection System is aplication that can define if the bottle is empty or it has liquid in it and if the bottle has label or no. It also draws bounding boxes around cap and label and marks liquid level on bottle.
